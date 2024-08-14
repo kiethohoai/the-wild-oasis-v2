@@ -4,3 +4,4 @@
 003 Please Download Starter Files Again
 004 Setting Up the Project The Wild Oasis
 005 Introduction to Styled Components
+006 Global Styles With Styled Components
