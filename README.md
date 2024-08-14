@@ -7,3 +7,4 @@
 006 Global Styles With Styled Components
 007 Styled Component Props and the css Function
 008 Building More Reusable Styled Components
+009 Setting Up Pages and Routes
