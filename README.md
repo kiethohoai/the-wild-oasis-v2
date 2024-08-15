@@ -8,3 +8,4 @@
 007 Styled Component Props and the css Function
 008 Building More Reusable Styled Components
 009 Setting Up Pages and Routes
+010 Building the App Layout
