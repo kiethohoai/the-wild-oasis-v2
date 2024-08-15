@@ -9,3 +9,4 @@
 008 Building More Reusable Styled Components
 009 Setting Up Pages and Routes
 010 Building the App Layout
+011 Building the Sidebar and Main Navigation
