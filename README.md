@@ -18,3 +18,4 @@
 004 Modeling Application State
 005 Creating Tables
 006 Relationships Between Tables
+007 Adding Security Policies (RLS)
