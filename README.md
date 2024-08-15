@@ -23,3 +23,5 @@
 009 Setting Up Storage Buckets
 
 27 - React Query Managing Remote State
+001 Section Overview
+002 What is React Query
