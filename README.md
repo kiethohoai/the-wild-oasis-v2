@@ -12,3 +12,4 @@
 011 Building the Sidebar and Main Navigation
 
 26 - Supabase Crash Course Building a Back-End!
+001 Section Overview
