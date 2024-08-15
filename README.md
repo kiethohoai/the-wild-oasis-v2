@@ -14,3 +14,4 @@
 26 - Supabase Crash Course Building a Back-End!
 001 Section Overview
 002 What is Supabase
+003 Creating a New Database
