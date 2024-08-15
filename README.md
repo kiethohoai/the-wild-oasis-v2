@@ -31,3 +31,4 @@
 007 Displaying Toasts (Notifications)
 008 Introducing Another Library React Hook Form
 009 Creating a New Cabin
+010 Handling Form Errors
