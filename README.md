@@ -20,3 +20,4 @@
 006 Relationships Between Tables
 007 Adding Security Policies (RLS)
 008 Connecting Supabase With Our React App
+009 Setting Up Storage Buckets
