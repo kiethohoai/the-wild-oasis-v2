@@ -35,3 +35,4 @@
 011 Uploading Images to Supabase
 012 Editing a Cabin
 013 Abstracting React Query Into Custom Hooks
+014 Duplicating Cabins
