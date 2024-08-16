@@ -36,3 +36,4 @@
 012 Editing a Cabin
 013 Abstracting React Query Into Custom Hooks
 014 Duplicating Cabins
+015 Fetching Applications Settings
